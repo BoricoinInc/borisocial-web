@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/borisocial-web/static/css/main.f855e6bc.css",
+    "main.js": "/borisocial-web/static/js/main.4305effa.js",
+    "static/js/453.b1b86da4.chunk.js": "/borisocial-web/static/js/453.b1b86da4.chunk.js",
+    "index.html": "/borisocial-web/index.html",
+    "main.f855e6bc.css.map": "/borisocial-web/static/css/main.f855e6bc.css.map",
+    "main.4305effa.js.map": "/borisocial-web/static/js/main.4305effa.js.map",
+    "453.b1b86da4.chunk.js.map": "/borisocial-web/static/js/453.b1b86da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4305effa.js"
+  ]
+}
